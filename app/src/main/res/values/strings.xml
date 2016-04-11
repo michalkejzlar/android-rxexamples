@@ -1,0 +1,11 @@
+<resources>
+	<string name="app_name">RxExamples</string>
+
+	<string name="no_contributors">No contributors</string>
+
+	<string name="network_error_bad_request">Bad! Like 400 bad, indeed!</string>
+	<string name="network_error_unauthorized">Get help, seriously.</string>
+	<string name="network_error_io">Sorry, cannot connect to server!</string>
+
+
+</resources>
